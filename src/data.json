@@ -1,0 +1,155 @@
+{
+  "table1Headers": [
+    "Company name", "Product", "sent at", "status"
+  ],
+  "table3Headers": [
+    "conterparty", "btc", "eth", "xrp", "eur", "usd", "gbr", "next explosure", "lust date"
+  ],
+  "table4Headers": [
+    "id", "created", "last opened", "instrument", "qty", "bid", "ask", "delta", "model vol", "status", "clearing"
+  ],
+  "table1": [{
+      "companyName": "keplerk",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "enigma",
+      "product": "eth-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Canseled"
+    },
+    {
+      "companyName": "i trust capital",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "enigma",
+      "product": "eth-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Canseled"
+    },
+    {
+      "companyName": "keplerk",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "i trust capital",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "keplerk",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "enigma",
+      "product": "eth-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Canseled"
+    },
+    {
+      "companyName": "i trust capital",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "keplerk",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "i trust capital",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "keplerk",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    },
+    {
+      "companyName": "i trust capital",
+      "product": "btc-eur",
+      "sentAt": "30 apr 2020 17:09",
+      "statusActive": "Active"
+    }
+  ],
+  "table2": [{
+      "counterparty": "b2c2",
+      "btc": "2,125",
+      "eth": "0",
+      "xrp": "0",
+      "eur": "0",
+      "usd": "0",
+      "net exposure": "0",
+      "last calculation date": "01/07/2020"
+    },
+    {
+      "counterparty": "Alameda",
+      "btc": "2,125",
+      "eth": "0",
+      "xrp": "0",
+      "eur": "0",
+      "usd": "0",
+      "net exposure": "0",
+      "last calculation date": "01/07/2020"
+    },
+    {
+      "counterparty": "Keplerk",
+      "btc": "2,125",
+      "eth": "0",
+      "xrp": "0",
+      "eur": "0",
+      "usd": "0",
+      "net exposure": "0",
+      "last calculation date": "01/07/2020"
+    },
+    {
+      "counterparty": "b2c2",
+      "btc": "2,125",
+      "eth": "0",
+      "xrp": "0",
+      "eur": "0",
+      "usd": "0",
+      "net exposure": "0",
+      "last calculation date": "01/07/2020"
+    },
+    {
+      "counterparty": "Bitcoin Of America",
+      "btc": "2,125",
+      "eth": "0",
+      "xrp": "0",
+      "eur": "0",
+      "usd": "0",
+      "net exposure": "0",
+      "last calculation date": "01/07/2020"
+    }
+  ],
+  "table4": [
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221",
+    "[2020-08-21 13:11:05] production. INFO: EUR-USD - imlied price: 1.1762 - message: inserted id: 178221"
+
+  ],
+  "tableLive": [
+    "currency", "rate", "bid", "ask", "high", "low", "open", "close", "timestamp"
+  ]
+}
